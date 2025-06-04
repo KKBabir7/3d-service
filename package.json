@@ -1,0 +1,56 @@
+{
+  "name": "the_kow_company",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "analyze": "cross-env ANALYZE=true next build"
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "^15.1.8",
+    "@radix-ui/react-slot": "^1.2.3",
+    "antd": "^5.24.9",
+    "babel-plugin-styled-components": "^2.1.4",
+    "class-variance-authority": "^0.7.1",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.9.7",
+    "lucide-react": "^0.511.0",
+    "next": "15.3.1",
+    "react": "^19.0.0",
+    "react-calendly": "^4.3.1",
+    "react-compare-image": "^3.5.4",
+    "react-div-carousel": "^1.1.7",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.56.0",
+    "react-icons": "^5.5.0",
+    "react-lazy-load-image-component": "^1.6.3",
+    "react-multi-carousel": "^2.8.6",
+    "styled-components": "^6.1.17",
+    "tailwind-merge": "^3.3.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.1",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
+  },
+  "browserslist": {
+    "production": [
+      "last 2 Chrome versions",
+      "last 2 Firefox versions",
+      "last 2 Edge versions",
+      "Safari >= 13"
+    ],
+    "development": [
+      "last 1 Chrome version",
+      "last 1 Firefox version"
+    ]
+  }
+}
