@@ -32,11 +32,7 @@ const ThreeDModelContainer = () => {
 
               <div className="flex flex-col justify-items-center md:pt-10 items-center">
               <p className="text-black text-justify">
-             Holosnap is a cutting-edge 3D service that converts your ordinary photos into high-quality, interactive 3D models — no modeling expertise required. Leveraging advanced AI and computer vision, Holosnap analyzes depth and spatial features from 2D images to generate lifelike 3D content with remarkable precision.
-
-Perfect for designers, architects, developers, and 3D creatives, Holosnap simplifies what was once a complex process. Whether you're building for virtual reality, augmented reality, digital media, or product visualization, our service empowers you to bring flat visuals to life.
-
-With Holosnap, turning images into immersive 3D models is fast, accurate, and effortless.
+             {"Holosnap is a cutting-edge 3D service that converts your ordinary photos into high-quality, interactive 3D models — no modeling expertise required. Leveraging advanced AI and computer vision, Holosnap analyzes depth and spatial features from 2D images to generate lifelike 3D content with remarkable precision.Perfect for designers, architects, developers, and 3D creatives, Holosnap simplifies what was once a complex process. Whether you're building for virtual reality, augmented reality, digital media, or product visualization, our service empowers you to bring flat visuals to life.With Holosnap, turning images into immersive 3D models is fast, accurate, and effortless."}
               </p>
               <div className="flex justify-center mt-3 md:mt-6 mb-5 md:mb-0">
                <h3 className="block">

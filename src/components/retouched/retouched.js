@@ -22,9 +22,7 @@ const Retouched = () => {
                     <div className="px-3 lg:px-0 text-center lg:text-left ">
                         <h2 className="text-[28px] md:text-[44px]  font-bold border-b-2 leading-[50px] border-[#FF6900]" style={{textTransform:'uppercase'}}>3D WORK WITH AI</h2>
                         <div className="">
-                            <p className="text-sm  text-center lg:text-justify pt-7">  Retouched is your go-to solution for fast, free, and precise background removal — powered by advanced artificial intelligence. Designed with photographers, graphic designers, e-commerce brands, and content creators in mind, this tool delivers clean, professional results in just seconds.
-
-Say goodbye to tedious manual editing and file juggling. With a streamlined interface and smart automation, Retouched offers a seamless editing experience that feels effortless — no Photoshop skills required. Whether you're prepping product photos or crafting standout visuals, Retouched helps you work smarter and achieve studio-quality outcomes with ease. </p>
+                            <p className="text-sm  text-center lg:text-justify pt-7">  {"Retouched is your go-to solution for fast, free, and precise background removal — powered by advanced artificial intelligence. Designed with photographers, graphic designers, e-commerce brands, and content creators in mind, this tool delivers clean, professional results in just seconds.Say goodbye to tedious manual editing and file juggling. With a streamlined interface and smart automation, Retouched offers a seamless editing experience that feels effortless — no Photoshop skills required. Whether you're prepping product photos or crafting standout visuals, Retouched helps you work smarter and achieve studio-quality outcomes with ease."} </p>
                             <p className="text-sm  pt-5 text-center lg:text-justify">{`Beyond Background Removal — Powerful Creative Tools with Retouched
 
 Retouched goes far beyond basic background removal. With Preset Backgrounds, you can instantly replace dull or cluttered backdrops with high-quality, visually appealing alternatives that elevate your images.
